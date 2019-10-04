@@ -10,13 +10,6 @@ import java.util.Set;
 
 public class Runner {
 
-//    private GameStrategy gameStrategy;
-//
-//    public Runner(GameStrategy gameStrategy) {
-//        this.gameStrategy = gameStrategy;
-//    }
-
-
     /**
      * Returns next generation for passed generation
      *
